@@ -66,6 +66,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Markandeyan Gokul - 212224240086
 **Course:** Introduction to Cloud Computing  
 
